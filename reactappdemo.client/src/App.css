@@ -1,0 +1,11 @@
+﻿body {
+    padding-top: 56px;
+}
+
+.main {
+    height: calc(100vh - 56px)
+}
+
+.nav-item .active {
+    background-color: #5c5b5b;
+}
