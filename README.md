@@ -46,3 +46,12 @@ Image upload section with preview support
 Responsive layout styled with Bootstrap components
 
 Feel free to copy and paste this into your README.md. If you want to add badges, screenshots, or setup instructions, I can help format those too!
+
+
+
+
+⚙️ Getting Started
+
+Update the Connection String Open appsettings.json and replace the default connection string with your PostgreSQL database credentials.
+
+Apply Migrations Run the following command in the Package Manager Console to apply Entity Framework migrations: Update-Database
