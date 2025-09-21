@@ -1,25 +1,48 @@
-Demo Summary: Customer Management Dashboard
+🧾 Customer Management Dashboard
+A full-stack customer management system with image upload support, built using ASP.NET Core 8, PostgreSQL, and React (TypeScript).
 
-Backend
+
+🔧 Backend
+
 Framework: ASP.NET Core 8
+
 Database: PostgreSQL
+
 API: RESTful endpoints for customer CRUD operations and image upload
-Architecture: Modular service-based design with Entity Framework Core for data access
 
-Frontend
+Architecture: Modular service-based design using Entity Framework Core
+
+
+🎨 Frontend
+
 Framework: React (TypeScript)
+
 State Management: Redux Toolkit
-Form Handling: React Hook Form for validation and controlled inputs
-Routing: React Router for page navigation
-UI Library: React Bootstrap for responsive and styled components
 
-Key Features
-Add Customer: Form to create new customer records with validation
-Edit Customer: Inline or modal-based editing of existing customer data
-Delete Customer: Confirmation-based deletion with state and backend sync
-Add Images: Upload and preview customer-specific images using base64 encoding
+Form Handling: React Hook Form
 
-Demo Page Overview
-Displays a list of customers with action buttons (Edit, Delete, Add Image)
+Routing: React Router
+
+UI Library: React Bootstrap
+
+
+📋 Key Features
+
+Add Customer Create new customer records with form validation.
+
+Edit Customer Inline or modal-based editing of customer details.
+
+Delete Customer Confirmation-based deletion with state and backend sync.
+
+Add Images Upload and preview customer-specific images using base64 encoding.
+
+
+🖥️ Demo Page Overview
+
+Displays a list of customers with action buttons: Edit, Delete, Add Image
+
 Image upload section with preview support
+
 Responsive layout styled with Bootstrap components
+
+Feel free to copy and paste this into your README.md. If you want to add badges, screenshots, or setup instructions, I can help format those too!
